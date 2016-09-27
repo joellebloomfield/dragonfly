@@ -1,0 +1,8 @@
+---
+applications:
+  - name: dragonfly
+    buildpack: java_buildpack
+    path: target/dragonfly-1.0.0.jar
+services:
+    - postgres_sv
+    - redis_sv 
