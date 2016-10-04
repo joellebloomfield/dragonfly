@@ -4,9 +4,9 @@ Predix Labs Java example on how to run websocket server, Database and Redis cach
 
 ## Websocket client 
    ```  
-wss://dragonfly.run.aws-usw02-pr.ice.predix.io/wss/1
+wss://dragonfly.run.aws-usw02-pr.ice.predix.io/wss/12
  {
-      "nodeId":1,
+      "nodeId":12,
       "deviceId":123
       "lat":36.77,
       "long":-128.33
